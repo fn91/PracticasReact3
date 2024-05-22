@@ -1,0 +1,26 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+  
+    color-scheme: light dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #242424;
+  
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .titulo {
+    background-color: aqua;
+    font-weight: 100px;
+    background-origin: padding-box;
+    inline-size: none;
+    width: 20 px;
+    height: 100 px;
+
+}
+
+  

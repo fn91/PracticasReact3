@@ -1,0 +1,9 @@
+.titulo {
+    background-color: aqua;
+    font-weight: 100px;
+    background-origin: padding-box;
+    inline-size: none;
+    width: 20 px;
+    height: 100 px;
+
+}
